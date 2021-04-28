@@ -1,4 +1,3 @@
-# SHAPEAI WEB DEV BOOTCAMP
 <html>
     <head>
         <title>Pokemon movies</title>
